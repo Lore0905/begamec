@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="BEGAMEC">
+  <rect width="128" height="128" rx="22" fill="#070709"/>
+  <path d="M20 18 62 64H20Z" fill="#cd57ed"/>
+  <path d="M62 64 108 110V64Z" fill="#ff00ed"/>
+  <path d="M20 64h42v46Z" fill="#9b42ea" opacity=".72"/>
+  <circle cx="62" cy="64" r="7" fill="#fff"/>
+</svg>
